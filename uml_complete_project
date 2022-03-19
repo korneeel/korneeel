@@ -1,1 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T18:39:23.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="M0I003sU1Dk1WC3IS5it" version="17.1.3" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3VtNk5s4EP01Ps4UQuCPY+Yre9mqVE2qsjkyIBtqMGKFPLbz61cyEga1PJFtDKmdS0xLCPT01P1aTSb4cb37yqIy/ZsmJJ/4XrKb4KeJ76PAm4t/pGVfW2aBMqxYlqhOR8Nr9osoo6esmywhVacjpzTnWdk1xrQoSMw7togxuu12W9K8+9QyWhFgeI2jHFp/ZAlPlRVNF8eGv0i2StWj5/60bniL4vcVo5tCPa+gBalb1pEeRs2xSqOEblsm/DzBj4xSXv9a7x5JLmHViNX3vZxobV6ZkYK73ODXN3xE+UbN+nvKSJQImxqr4nsNSLXN1nkk5oIftmnGyWsZxbJpK9YfPljd/0EYJ7uWSb3IV0LXhLO96KJbp8F9WN+kGIN8xZjtEX9/rqBLW9CHM2WM1JqvmtGPkxc/1PztWIQAC4CAuEGwTwIgFq6UxopHjL/yiEvjMsvzR5pTduiNvcOf7MwZfSetluVStUDY/LNh87wOaIEHMMMWyHAPiE0dEEvEnlKXJH+j2+ej4eFgEA0pZdkvWvBIPOhBzjwTu/BLnq0K0fhGOadr2btIvshtLWy0JEVtUW5jbkP55UWhLPq9ZHIWT0hcHXYmkVPwTsJf0Q2LSYcXYqFXRPWa1SY5uWuWyIa9GuQbzcQrHUdAxs5AxhD126m7jBVsXshpUWdgUbMkJ2Bhe2Du1LPPadv2trbd3gN152CWm4owOWjMM1oMMN0mBgwx3YXDTgXb61YbagY31NxxQzGSRzz76Eboa4DRgLeQKWnFD7JivY5ECL89E7B2MUMwASEw4RGpMIdU0BMfgQtQDfUQzz6FDga0K8DUyF0SqdrU8yzUa4zOqJ8IZKYXXBicricEAhkYCEQPc6ATEVEgHu1b3UrZoTr9wth437AjqMWPesBLoy0GlGsEOCTfjQV4EIwrwBEEA+6/2ytwfC5uU7u6G0CAo+AWHmtcBY4tjg1bwkTo6Nl23VXR+/hsCR52t4aju7nAJSCYiDoq8LOZ6xs+dEgFjmD2GKckfp/IoxqpxCcyv8RI0qcg26MiqwZAYlBxjmDKBXfxbSSZbbNZ8l29ViNoMpioNcLc+3dDNkPsi2EF+ni5mo0NUwsbRsvWfJi8KA54ZF3yPQCKpXT9tqmgMliKv/jmygCFpluBRLLJqc8OiJyxgtnMnkDfeb48iJQsyMmS30gt7DL+j6SokKP11c8DYT8js2wTCNW3zUJ9/fM4jLz8RlgmkCTMeQM0pYfWBvDP1B53aoyecydkupueUp4mldLPmfeb81iSnoLenpicliNqWBuPdAowNI+M9cVe6MSjS5baJUEZNZhp+EYIZg4FJ53k5tkh66+B0dXI6afhi1GRE8ujbPy0OA3PGbHMOAlB/uweRrPQEs1Q2ANY/8Nak81L2MT3mdHGXCgzU/29gzAPvZCpR/pzEPpJrXVNsqqMeJy28r9G8jeWLWXvh3oNV8dl/ScBKBgxC8BQ6cYsO5C1hUJF7NUq7TYKyu2HheLWmsw697wOKa97NhIsLNmz7VS5F6Sgzv0sxBw+xnDbwB6QmElUpYcLy4cWtnhjKW/g0eINdojFVqachMrIqZT9ej75QZdPeGEJNJBNQQ9xJnApj50dZ46pCcxLblQfstBR+9oOHQNHOg5VIDIP0+eGi3CtD5nJEjYH6i1ZMnyf12+yBDdtUyDSSzxYgWjmj1sgwjBxLBmNSVXZtMJvFUFw7vyNvCnwhhQELp+njVSc7py9+BeevQTQOTmfswzlnO4MYRyYn2G5eqc7ZJZezIJUT+7pDhnPUTzqrX7tUrto0dJFfl0e9Cwc0j7jz+WQv7g3hIsri0x/BEfqMVGDhRi40KA4L7PmC0vz17trMxEO9agDVObxeFUchVNH+VkK6Hi8Kg7M+YfCBkFsbF9NDVbhEpfHj/3rXXn8zxT4+T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-19T19:02:43.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Qa1MvVfIb6FEZRTiysyY" version="17.1.3" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pM-PitLtaldULAmGugDv-49" value="Hallgatlak webalkalmazás" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="370" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-56" value="Bejelentkezés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="40" y="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-59" value="Bejelentkezés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="200" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-58" value="Jelszó megadása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="200" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-62" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;shadow=0;sketch=0;" edge="1" parent="pM-PitLtaldULAmGugDv-49" source="pM-PitLtaldULAmGugDv-56" target="pM-PitLtaldULAmGugDv-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="140" />
+              <mxPoint x="150" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pM-PitLtaldULAmGugDv-49" source="pM-PitLtaldULAmGugDv-56" target="pM-PitLtaldULAmGugDv-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="140" />
+              <mxPoint x="150" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-75" value="Sikertelen validáció" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="230" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-77" value="Felhasználói felület" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="40" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-80" value="Naptár bejegyzések felvitele" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="170" y="320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-83" value="Költségek felvitele" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="170" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-82" value="Személyes adatok beállítása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="170" y="480" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-85" value="Sikeres&amp;nbsp;validáció" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="pM-PitLtaldULAmGugDv-49">
+          <mxGeometry x="230" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pM-PitLtaldULAmGugDv-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-55" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="230" as="sourcePoint" />
+            <mxPoint x="700" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="200" />
+              <mxPoint x="600" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="sourcePoint" />
+            <mxPoint x="700" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="100" />
+              <mxPoint x="600" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-74" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontSize=27;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-73" target="pM-PitLtaldULAmGugDv-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="230" as="sourcePoint" />
+            <mxPoint x="570" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="60" />
+              <mxPoint x="355" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-76" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pM-PitLtaldULAmGugDv-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-84" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pM-PitLtaldULAmGugDv-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="440" as="sourcePoint" />
+            <mxPoint x="670" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="300" as="sourcePoint" />
+            <mxPoint x="680" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="360" />
+              <mxPoint x="580" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-87" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540.0000000000064" y="370" as="sourcePoint" />
+            <mxPoint x="670" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="520" />
+              <mxPoint x="580" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM-PitLtaldULAmGugDv-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="300" as="sourcePoint" />
+            <mxPoint x="680" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pM-PitLtaldULAmGugDv-89" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="413" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
