@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T21:23:14.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ZwNry-kaN-R6qr2XGaaw" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T21:24:04.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="gVkvUcgPnZMj8M4IM4FC" version="17.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           <mxGeometry x="515" y="380" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oHsmzRcOgdDe91PbZ6Xk-30" value="Jelszóemlékeztető sikeres kiküldése" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHsmzRcOgdDe91PbZ6Xk-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHsmzRcOgdDe91PbZ6Xk-30" target="oHsmzRcOgdDe91PbZ6Xk-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
