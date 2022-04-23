@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T13:58:59.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="jLwZCDaTxJBxG2FbNjos" type="github"><diagram id="P7m8IBrwyIg5qxdoscpt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-23T14:15:35.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RNgSkTVudLsMR-QSXBZc" version="17.4.6" type="github">
+  <diagram id="P7m8IBrwyIg5qxdoscpt" name="Page-1">
+    <mxGraphModel dx="2048" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-3" target="iNgiFB68nGCLWXifgN6Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-3" value="Kapcsolódási kísérlet a firebase-hez" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-2" target="iNgiFB68nGCLWXifgN6Y-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-5" target="iNgiFB68nGCLWXifgN6Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-5" value="Sikeres kapcsolódás?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="250" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-7" value="Hibaüzenet kiadása" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-9" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="255" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-7" target="iNgiFB68nGCLWXifgN6Y-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-11" target="iNgiFB68nGCLWXifgN6Y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-11" value="Felvitel gomb menyomása,&lt;br&gt;Űrlap kitöltése" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="420" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-5" target="iNgiFB68nGCLWXifgN6Y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="390" as="sourcePoint" />
+            <mxPoint x="130" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="380" />
+              <mxPoint x="10" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-13" target="iNgiFB68nGCLWXifgN6Y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-13" value="Feltöltés gomb megnyomása,&amp;nbsp;&lt;br&gt;kép kiválasztása" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-5" target="iNgiFB68nGCLWXifgN6Y-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="380" />
+              <mxPoint x="235" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-15" target="iNgiFB68nGCLWXifgN6Y-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-15" value="Adatok adatbázisba történő mentése" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="525" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-16" target="iNgiFB68nGCLWXifgN6Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-16" value="Kép firebase storage-ba történő mentése&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Adatok%20adatb%C3%A1zisba%20t%C3%B6rt%C3%A9n%C5%91%20ment%C3%A9se%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-60%22%20y%3D%22520%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="525" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-17" target="iNgiFB68nGCLWXifgN6Y-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-17" value="Kép URL címének mentése az adatbázisba" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-21" target="iNgiFB68nGCLWXifgN6Y-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="300" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-21" target="iNgiFB68nGCLWXifgN6Y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-21" value="Sikeres mentés?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-25" value="Hamis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-26" value="Hamis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-27" target="iNgiFB68nGCLWXifgN6Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-27" value="Feltöltött személyes adatok lekérése&lt;br&gt;(automatikus),&lt;br&gt;Feltöltött kép betöltődése az oldaon&lt;br&gt;(automatikus)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-29" value="Igaz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-33" target="iNgiFB68nGCLWXifgN6Y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-33" value="Sikeres lekérés?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.582;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iNgiFB68nGCLWXifgN6Y-33" target="iNgiFB68nGCLWXifgN6Y-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="440" as="sourcePoint" />
+            <mxPoint x="321" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="440" />
+              <mxPoint x="420" y="400" />
+              <mxPoint x="420" y="360" />
+              <mxPoint x="320" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-37" value="Igaz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgiFB68nGCLWXifgN6Y-38" value="Hamis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
