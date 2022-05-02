@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T21:23:32.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PxN-3sRjgbq3ttulk1ON" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T21:25:02.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="osjPa4qkn5VDx0b3BcOu" version="17.4.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,13 +42,13 @@
         <mxCell id="pM-PitLtaldULAmGugDv-77" value="Felhasználói felület" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
           <mxGeometry x="40" y="240" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pM-PitLtaldULAmGugDv-80" value="Naptár bejegyzések felvitele" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
+        <mxCell id="pM-PitLtaldULAmGugDv-80" value="Naptár&lt;br&gt;modul" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
           <mxGeometry x="170" y="320" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pM-PitLtaldULAmGugDv-83" value="Költségek felvitele" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
+        <mxCell id="pM-PitLtaldULAmGugDv-83" value="Költségvetés&lt;br&gt;modul" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
           <mxGeometry x="170" y="400" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pM-PitLtaldULAmGugDv-82" value="Személyes adatok beállítása" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
+        <mxCell id="pM-PitLtaldULAmGugDv-82" value="Személyes adatok &lt;br&gt;modul" style="ellipse;whiteSpace=wrap;html=1;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
           <mxGeometry x="170" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pM-PitLtaldULAmGugDv-85" value="Sikeres&amp;nbsp;validáció" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="pM-PitLtaldULAmGugDv-49" vertex="1">
