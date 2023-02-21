@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korneeel
-- 👀 I’m interested in front-end like React JS.
+- 👀 I’m interested in front-end like React JS| React native.
 - 🌱 I’m currently learning advanced React Hooks, and Redux.
 - 📫 How to reach me s.kornel199618@gmail.com
 
